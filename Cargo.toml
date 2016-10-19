@@ -1,0 +1,6 @@
+[package]
+name = "lyfcal"
+version = "0.1.0"
+authors = ["Mutualideas <jason.lu.nz@hotmail.com>"]
+
+[dependencies]
